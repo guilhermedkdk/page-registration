@@ -12,7 +12,7 @@ textarea {
   font: var(--text);
 }
 
-labl {
+label {
   font: var(--text-sm);
   color: var(--text-secondary);
 
