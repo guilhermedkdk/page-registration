@@ -19,7 +19,7 @@
     opacity: 0;
   }
 
-  p {
+  & p {
     color: #a8a29e;
   }
 
@@ -29,7 +29,7 @@
     border-color: var(--stroke-highlight);
     background-color: var(--surface-secondary);
 
-    p {
+    & p {
       color: var(--text-tertiary);
     }
 

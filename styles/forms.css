@@ -7,7 +7,7 @@ form {
 fieldset {
   border: none;
   display: grid;
-  gap: 1.5rem;
+  gap: 1.25rem;
 }
 
 legend {
@@ -22,5 +22,17 @@ fieldset + fieldset {
 .actions-wrapper {
   margin-top: 3rem;
   display: flex;
+  flex-direction: column;
   gap: 1rem;
+}
+
+@media (width >= 1280px) {
+  fieldset {
+    gap: 1.5rem;
+  }
+
+  .actions-wrapper {
+    margin-top: 3rem;
+    flex-direction: row;
+  }
 }
