@@ -11,7 +11,7 @@ Uma página de cadastro para uma escola fictícia feita como forma de estudos do
 </p>
 
 <p align="center">
-<img alt="" src="./github/thumbnail-forms-page.png" width="100%">
+<img alt="" src="./github/thumbnail-responsive.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -22,9 +22,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - FIGMA
 
-## 💻 Projeto
+## 💻 Projeto e Desafio
 
-A "Forms Page" foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, trabalhei com formulários em HTML, utilizando elementos como inputs, labels, select e fieldset para criar uma estrutura funcional e organizada.
+A "Forms Page" foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, trabalhei com formulários em HTML, utilizando elementos como inputs, labels, select e fieldset para criar uma estrutura funcional e organizada, além de tornar a página responsiva como parte de um desafio.
 
 ## 📚 Aprendizados
 
