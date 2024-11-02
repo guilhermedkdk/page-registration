@@ -1,10 +1,10 @@
-<h1 align="center"> Forms page </h1>
+<h1 align="center"> Registration page </h1>
 
 <p align= "center">
 Uma página de cadastro para uma escola fictícia feita como forma de estudos do curso Fullstack da Rocketseat</p>
 
 <p align="center">
-<a href="https://guilhermedkdk.github.io/rocket-forms-page/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://guilhermedkdk.github.io/page-registration/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-aprendizados">📚 Aprendizados</a>
@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto e Desafio
 
-A "Forms Page" foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, trabalhei com formulários em HTML, utilizando elementos como inputs, labels, select e fieldset para criar uma estrutura funcional e organizada, além de tornar a página responsiva como parte de um desafio.
+A "Registration Page" foi um mini projeto do curso Fullstack da Rocketseat no módulo "Avançando HTML e CSS". Nele, trabalhei com formulários em HTML, utilizando elementos como inputs, labels, select e fieldset para criar uma estrutura funcional e organizada, além de tornar a página responsiva como parte de um desafio.
 
 ## 📚 Aprendizados
 
