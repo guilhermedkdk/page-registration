@@ -2,8 +2,9 @@
   display: grid;
   grid-template-rows: auto 1fr;
   grid-template-columns: auto;
-  height: 100vh;
   overflow: hidden;
+
+  height: 100vh;
   background-color: var(--surface-secondary);
 }
 
@@ -18,10 +19,12 @@
 main {
   grid-row: 2;
   overflow-y: auto;
-  padding: 1.5rem;
+
   width: 360px;
+  padding: 1.5rem;
   margin-inline: auto;
   margin-bottom: 0.75rem;
+
   background-color: white;
 
   & .main-container {
@@ -32,6 +35,7 @@ main {
   & .back {
     display: flex;
     align-items: center;
+
     gap: 0.5rem;
     margin-bottom: 1.5rem;
   }
@@ -44,8 +48,9 @@ main {
 
 @media (width >= 1280px) {
   main {
-    width: auto;
     grid-row: auto;
+
+    width: auto;
     padding: 4rem;
     margin-bottom: 0;
   }
@@ -53,8 +58,9 @@ main {
 
 aside {
   grid-row: 1;
-  background-color: var(--surface-secondary);
+
   padding: 1.5rem;
+  background-color: var(--surface-secondary);
 
   & .aside-container {
     display: flex;
@@ -88,6 +94,7 @@ aside {
       & > img {
         width: 100%;
         height: auto;
+
         margin-top: 2rem;
       }
     }

@@ -1,18 +1,20 @@
 button {
   all: unset;
-  font-weight: 500;
-  color: var(--text-highlight);
-  text-align: center;
-  padding: 0.75rem 1.5rem;
-  border-radius: 0.5rem;
   cursor: pointer;
-  margin-inline: auto;
+
   width: 100%;
   max-width: 28rem;
-  box-sizing: border-box;
+  padding: 0.75rem 1.5rem;
+  margin-inline: auto;
+  border-radius: 8px;
+
+  text-align: center;
+  font-weight: 500;
+  color: var(--text-highlight);
 
   &.btn-primary {
     margin-left: auto;
+
     color: white;
     background-color: #e43a12;
 
@@ -28,16 +30,16 @@ button {
 
     &:hover,
     &:focus {
-      color: #e43a12;
       outline: 0.25rem solid var(--surface-secondary);
+      color: #e43a12;
     }
   }
 }
 
 @media (width >= 1280px) {
   button {
-    margin-inline: 0px;
     width: auto;
+    margin-inline: 0px;
   }
   .actions-wrapper .btn-primary {
     margin-left: 0px;
